@@ -1,5 +1,6 @@
 # data_analysis
-in this repo I will put visualization and analyze of free datasets from internet 
+in this repo I will put visualization and analyze of free datasets from internet.
+
 Kaggle competition: 
 https://www.kaggle.com/competitions/spaceship-titanic/overview.
 
